@@ -8,8 +8,8 @@ So to begin my development blog, after a week of re-learning the basic of Unity3
 
 -----------
 
-**Day1:**
-* Created background wallpaper
+**Day 1-2: The beginning of something new**
+* Photoshop: mocked up a quick icon / wallpaper to to go with the build
 
 ![Splash](https://github.com/user-attachments/assets/56d99737-e4d0-4018-b283-1cff70e262cd)
 
