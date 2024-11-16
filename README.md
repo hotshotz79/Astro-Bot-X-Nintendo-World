@@ -11,7 +11,7 @@ I strictly discourage any illegal use of tools, assets, or files associated with
 
 Follow Dev Log below:
 
-[Dev Log #1](DevLog/Log-1.md)
+[Dev Logs](DevLog/)
 
 -----------
 
