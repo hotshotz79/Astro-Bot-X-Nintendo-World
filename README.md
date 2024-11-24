@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/60ae159b-fc7b-4601-b8bd-cc990e538b0f)
 
-**DISCLAIMER**
+## **DISCLAIMER**
 
 This project is intended for educational and learning purposes only. Users who wish to play the game must build it themselves if I decided to release the source code, as no executable files will be provided.
 
@@ -8,19 +8,58 @@ I strictly discourage any illegal use of tools, assets, or files associated with
 
 -----------
 
-**Current Status** 
+## **Current Status** 
 
-Very early development stage
+### Prologue
+
+- [x] Custom intro
+- [ ] Title / press any button
+- [x] Previously / recap
+  - [ ] Add QTE function
+- [ ] Star launch cutscene
+- [ ] Traveling multiverse
+  - [ ] Multiple star gates - distance view
+  - [x] Third person view
+    - [ ] Controllable
+    - [ ] Glimpses of different worlds
+      
+### Chapter 1
+- [ ] Design mushroom kingdom
+  - [ ] Import all assets
+  - [ ] place npcs
+  - [ ] add effects, water, etc
+- [ ] intro to mushroom kingdom
+  - [ ] cutscene - overall map
+  - [ ] cutscene - astro bot landing
+- [ ] implement mission objective
+- [ ] speak with toad to start mission
+- [ ] new ability - mario hat
+- [ ] stage 1 clear goombas
+  - [ ] optional - hidden coins
+- [ ] optional - in game trophy
+  - [ ] store inside a trophy room
+- [ ] access to peach castle
+- [ ] dialogue to next stage
+
+<!---Idea: implement minigames for trophy reward1. Mariokart2. Luigi mansion3. Slaparazzi-->
+
+### Chapter 2
+- [ ] *TBA*
+
+<!---
+Ch2
+ - [ ] ideas to next map   - [ ] luigi mansion   - [ ] zelda   - [ ] kirby   - [ ] splatoon - [ ] or kart our way thru rainbow bridge
+-->
 
 ----------
 
-**Development Log**
+## **Development Log**
 
 Development process, techniques and other knowledge sharing will be documented here<br>[Dev Logs](DevLog/)
 
 ----------
 
-**Game Story Flow**
+## **Game Story Flow**
 
 ```mermaid
 flowchart LR
@@ -78,6 +117,6 @@ classDef startFinish fill:#000000,stroke:#39FF14,stroke-width:3px,color:#fff
 
 -----------
 
-**CREDITS**
+## **CREDITS**
 
-X: @_SnakePlissken1 - For helping me get started and the ongoing support
+[X: @_SnakePlissken1](https://twitter.com/_SnakePlissken1) - For helping me get started and the ongoing support
